@@ -4,4 +4,4 @@ Aplikace obsahuje systém přihlašování vytvořen pomocí Firebase, kalendá�
 
 Při tvorbě jsem využil technologie Flutter a Dart, a pro backend jsem využil Firebase. Pro spuštění aplikace ve vybraném IDE je potřeba mít tyto věci nainstalované.
 Osobně jsem využil VSCode, který nabízí Flutter a Dart jako rozšíření. Firebase je potřeba nainstalovat z internetu.
-Při pokusu o spuštění aplikace ale může nastat problém, protože je potřebné propojení s konkrétním Firebase účtem.
+Při pokusu o spuštění aplikace ale může nastat problém, protože je potřebné propojení s konkrétním Firebase účtem. Kód by ale měl obsahovat API klíč, takže by to mohlo fungovat.
